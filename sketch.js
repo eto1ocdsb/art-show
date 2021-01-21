@@ -3,7 +3,7 @@ let mc = 0;
 //loads image to use
 function preload() {
   img = loadImage('razgriz.png');
-  img2 = loadImage('razgriz2.png');
+  img2 = loadImage('razgriz2.PNG');
   img3 = loadImage('grabacr.png');
   img4 = loadImage('grabacr2.png');
   img5 = loadImage('missile.png');
